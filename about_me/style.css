@@ -735,7 +735,6 @@ span.colored {
 }
 .tab-content {
     position: relative;
-    margin-bottom: 60px;
 }
 .tab-content .tab-element {
     display: flex;
