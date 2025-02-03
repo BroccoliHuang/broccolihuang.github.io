@@ -1,5 +1,3 @@
-1. 模版
-	- https://www.mobanwang.com/mb/ind/
 1. 製作首頁
 	- https://carrd.co/
 	- 儲存並貼到 index.html 中
@@ -8,7 +6,10 @@
 	- 拿掉 carrd.co 的 footer 的 "Made with Carrd" 浮水印
 		- 刪掉 `<div id="credits" class="icc-credits"><span><a href="https://carrd.co/build?ref=auto">Made with Carrd</a></span></div>`
 	- 修改背景路徑
-		- 將 `url('assets/images/bg.jpg?v=c7ae91d4')` 修改成 `url('index_files/bg.jpg')`
+		- 將 `url('assets/images/bg.jpg?v=XXXXXX')` 修改成 `url('index_files/bg.jpg')`
+	- 替換 index_files 中的 css2 為 carrd_files 中的 css2
+1. 其他 profile 模版
+	- https://www.mobanwang.com/mb/ind/
 1. 製作 MBTI
 	- https://www.16personalities.com/tw 
 	- 登入帳號：信箱
